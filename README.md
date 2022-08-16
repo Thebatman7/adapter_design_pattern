@@ -1,0 +1,1 @@
+# adapter_design_pattern
